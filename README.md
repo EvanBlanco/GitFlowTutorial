@@ -1,2 +1,2 @@
-# examples
-Just for learning git
+# GitFlowTutorial
+Just for learning git flow
